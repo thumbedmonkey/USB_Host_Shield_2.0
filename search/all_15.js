@@ -1,6 +1,9 @@
 var searchData=
 [
-  ['usb_20host_20library_20rev_2e2_2e0',['USB Host Library Rev.2.0',['../index.html',1,'']]],
+  ['usb_20host_20library_20rev_2e_202_2e0',['USB Host Library Rev. 2.0',['../index.html',1,'']]],
+  ['uhs2_5fgpio',['UHS2_GPIO',['../class_u_h_s2___g_p_i_o.html',1,'UHS2_GPIO'],['../class_u_h_s2___g_p_i_o.html#a17ed93e6b9a8e81df410ade377bf6413',1,'UHS2_GPIO::UHS2_GPIO()']]],
+  ['uhs2_5fgpio_2ecpp',['UHS2_gpio.cpp',['../_u_h_s2__gpio_8cpp.html',1,'']]],
+  ['uhs2_5fgpio_2eh',['UHS2_gpio.h',['../_u_h_s2__gpio_8h.html',1,'']]],
   ['uhs_5fhid_5fboot_5fkey_5fcaps_5flock',['UHS_HID_BOOT_KEY_CAPS_LOCK',['../hidboot_8h.html#a85200689879c7520e38541fa8ba29ade',1,'hidboot.h']]],
   ['uhs_5fhid_5fboot_5fkey_5fenter',['UHS_HID_BOOT_KEY_ENTER',['../hidboot_8h.html#a42f71f6d2b7e4f543826af0234834237',1,'hidboot.h']]],
   ['uhs_5fhid_5fboot_5fkey_5fnum_5flock',['UHS_HID_BOOT_KEY_NUM_LOCK',['../hidboot_8h.html#abed3f994055e37e80bede60fda7ea056',1,'hidboot.h']]],
@@ -117,6 +120,7 @@ var searchData=
   ['usb_5fsetup_5ftype_5fclass',['USB_SETUP_TYPE_CLASS',['../usb__ch9_8h.html#acf3fd30992e9fe01f1bac9aaa7fea61b',1,'usb_ch9.h']]],
   ['usb_5fsetup_5ftype_5fstandard',['USB_SETUP_TYPE_STANDARD',['../usb__ch9_8h.html#a3b51a35acaa76cafbb987c07186a7868',1,'usb_ch9.h']]],
   ['usb_5fsetup_5ftype_5fvendor',['USB_SETUP_TYPE_VENDOR',['../usb__ch9_8h.html#a876bdd74d8bfb072121b9643556271ba',1,'usb_ch9.h']]],
+  ['usb_5fspi',['USB_SPI',['../settings_8h.html#a00c696e002848a253c812ca2f4509f04',1,'settings.h']]],
   ['usb_5fstate_5faddressing',['USB_STATE_ADDRESSING',['../_usb_core_8h.html#a474a95baaeb99abd17538c2a1364bf96',1,'UsbCore.h']]],
   ['usb_5fstate_5fconfiguring',['USB_STATE_CONFIGURING',['../_usb_core_8h.html#aac8c844e6a20f42298d70e4438a029e5',1,'UsbCore.h']]],
   ['usb_5fstate_5fdetached',['USB_STATE_DETACHED',['../_usb_core_8h.html#ae7fd7c5bb6dc87f44724dde2ad57df87',1,'UsbCore.h']]],
@@ -162,5 +166,6 @@ var searchData=
   ['use_5fuhs_5fblack_5fwiddow',['USE_UHS_BLACK_WIDDOW',['../settings_8h.html#a83f41f46d054786d13082c675b986146',1,'settings.h']]],
   ['use_5fuhs_5fmega_5fadk',['USE_UHS_MEGA_ADK',['../settings_8h.html#a4fda527b33121e12836ef6be1046be0f',1,'settings.h']]],
   ['use_5fxmem_5fspi_5flock',['USE_XMEM_SPI_LOCK',['../settings_8h.html#aee231b7d14cfe47c83ad452386e69cde',1,'settings.h']]],
+  ['usesimplepairing',['useSimplePairing',['../class_b_t_d.html#a93e830be9fb0fe7d04bb39d10806ddc0',1,'BTD']]],
   ['using_5fspi4teensy3',['USING_SPI4TEENSY3',['../settings_8h.html#a9450874c2f6ee4af4e0f0b7923828d90',1,'settings.h']]]
 ];
