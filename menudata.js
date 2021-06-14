@@ -23,6 +23,11 @@ for the JavaScript code in this file
 var menudata={children:[
 {text:"Main Page",url:"index.html"},
 {text:"Related Pages",url:"pages.html"},
+{text:"Namespaces",url:"namespaces.html",children:[
+{text:"Namespace List",url:"namespaces.html"},
+{text:"Namespace Members",url:"namespacemembers.html",children:[
+{text:"All",url:"namespacemembers.html"},
+{text:"Variables",url:"namespacemembers_vars.html"}]}]},
 {text:"Classes",url:"annotated.html",children:[
 {text:"Class List",url:"annotated.html"},
 {text:"Class Index",url:"classes.html"},
@@ -104,7 +109,8 @@ var menudata={children:[
 {text:"v",url:"functions_vars_v.html#index_v"},
 {text:"w",url:"functions_vars_w.html#index_w"},
 {text:"x",url:"functions_vars_x.html#index_x"},
-{text:"y",url:"functions_vars_y.html#index_y"}]},
+{text:"y",url:"functions_vars_y.html#index_y"},
+{text:"z",url:"functions_vars_z.html#index_z"}]},
 {text:"Typedefs",url:"functions_type.html"},
 {text:"Enumerations",url:"functions_enum.html"},
 {text:"Enumerator",url:"functions_eval.html"}]}]},
@@ -143,6 +149,7 @@ var menudata={children:[
 {text:"c",url:"globals_vars.html#index_c"},
 {text:"p",url:"globals_vars_p.html#index_p"},
 {text:"r",url:"globals_vars_r.html#index_r"},
+{text:"s",url:"globals_vars_s.html#index_s"},
 {text:"u",url:"globals_vars_u.html#index_u"},
 {text:"w",url:"globals_vars_w.html#index_w"},
 {text:"x",url:"globals_vars_x.html#index_x"}]},
