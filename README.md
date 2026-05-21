@@ -119,8 +119,11 @@ Currently the following boards are supported by the library:
 * Balanduino
 * Sanguino
 * Black Widdow
+* Any board supported by [MightyCore](https://github.com/MCUdude/MightyCore)
 * RedBearLab nRF51822
 * Adafruit Feather nRF52840 Express
+* SEEED XIAO nRF52840 Sense
+    * Note it uses pin 7 and 5 for SS and INT respectively
 * Digilent chipKIT
     * Please see: <https://chome.nerpa.tech/mcu/usb/running-usb-host-code-on-digilent-chipkit-board>.
 * STM32F4
@@ -132,6 +135,7 @@ Currently the following boards are supported by the library:
       * GPIO6 to 11 is also **NOT** usable, as they are used to connect SPI flash chip and it is used for storing the executable binary content.
 * ESP32 is supported using the [arduino-esp32](https://github.com/espressif/arduino-esp32/)
     * GPIO5 : SS, GPIO17 : INT, GPIO18 : SCK, GPIO19 : MISO, GPIO23 : MOSI
+* Logic Green LGT8F328p using the [LGT8fx](https://github.com/dbuezas/lgt8fx)
 
 The following boards need to be activated manually in [settings.h](settings.h):
 
